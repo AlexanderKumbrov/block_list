@@ -1,3 +1,6 @@
 autodesk.com
 ase.autodesk.com
 app.ua.autodesk.com
+idp.auth.autodesk.com
+gtm.wape.autodesk.com
+damassets.autodesk.net
