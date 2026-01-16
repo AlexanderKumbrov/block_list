@@ -10,6 +10,9 @@ gtm.wape.autodesk.com
 damassets.autodesk.net
 binance.com
 binance.us
+accounts.binance.com
+nbstream.binance.com	
+stream.binance.com
 binance.org
 www.binance.com
 binance.cloud
