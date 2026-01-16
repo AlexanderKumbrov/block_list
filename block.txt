@@ -1,12 +1,36 @@
-0.0.0.0 autodesk.com
-0.0.0.0 ase.autodesk.com
-0.0.0.0 app.ua.autodesk.com
-0.0.0.0 idp.auth.autodesk.com
-0.0.0.0 gtm.wape.autodesk.com
-0.0.0.0 damassets.autodesk.net
-0.0.0.0 *.autodesk.com
-0.0.0.0 binance.com
-0.0.0.0 binance.us
-0.0.0.0 binance.org
-0.0.0.0 binance.cloud
-0.0.0.0 binanceru.net
+autodesk.com
+ase.autodesk.com
+app.ua.autodesk.com
+idp.auth.autodesk.com
+gtm.wape.autodesk.com
+damassets.autodesk.net
+binance.com
+binance.us
+binance.org
+binance.cloud
+binanceru.net
+api.genuine-software.autodesk.com
+genuine-software.autodesk.com
+genuine-software1.autodesk.com
+genuine-software2.autodesk.com
+ase-cdn-stg.autodesk.com
+ase.autodesk.com
+access.clic.autodesk.com
+clm.clic.autodesk.com
+accounts.autodesk.com
+ipm-aem.autodesk.com
+cdn.accounts.autodesk.com
+api.autodesk.com
+cur.autodesk.com
+registeronce.autodesk.com
+developer.api.autodesk.com
+sso.accounts.autodesk.com
+sso.connect.pingidentity.com
+autologon.microsoftazuread-sso.com
+autodesk-prod.okta.com
+auth.autodesk.com
+native.auth.autodesk.com
+profile.autodesk.com
+api.userprofile.autodesk.com
+cdn.web-platform.io
+authn.autodesk.com
