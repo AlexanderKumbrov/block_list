@@ -11,6 +11,7 @@ damassets.autodesk.net
 binance.com
 binance.us
 binance.org
+www.binance.com
 binance.cloud
 binanceru.net
 api.genuine-software.autodesk.com
