@@ -2,6 +2,9 @@ autodesk.com
 ase.autodesk.com
 app.ua.autodesk.com
 *.autodesk.com
+*.binance.com
+*.binance.us
+*.binance.net
 idp.auth.autodesk.com
 gtm.wape.autodesk.com
 damassets.autodesk.net
